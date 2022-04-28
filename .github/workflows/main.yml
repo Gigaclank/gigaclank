@@ -15,8 +15,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - name: waka-readme-stats
-      uses: miermontoto/waka-readme-stats@v5
+      uses: athul/waka-readme@master
       with:
-        # GitHub access token with Repo scope
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
         WAKATIME_API_KEY: ${{ secrets.WAKA_API_KEY }}
+        TIME_RANGE: last_6_months
+        COMMIT_MESSAGE: Updated the Readme
