@@ -7,6 +7,11 @@ Hi, I'm Aaron Lynn, a passionate all round software engineer from Northern Irela
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ### Tools 
