@@ -1,10 +1,11 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello! I'm Aaron.</h2>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gigaclank.gigaclank)
 
 
 Hi, I'm Aaron Lynn, a passionate all round software engineer from Northern Ireland. I have expiernce in alot of areas, but just some to name a few, Medical, Embedded, Industrial Controls, Cyber Monitoring and Cyber Security, Frontend and Backend. 
 
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
