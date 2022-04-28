@@ -1,0 +1,22 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '0 12,0 * * *'
+  workflow_dispatch:
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - name: waka-readme-stats
+      uses: miermontoto/waka-readme-stats@v5
+      with:
+        # GitHub access token with Repo scope
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        WAKATIME_API_KEY: ${{ secrets.WAKA_API_KEY }}
