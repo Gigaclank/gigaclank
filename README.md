@@ -10,7 +10,7 @@ Hi, I'm Aaron Lynn, a passionate all round software engineer from Northern Irela
 
 ```text
 Java                                     134 hrs 29 mins ██████▒░░░░░░░░░░░░░░░░░░   25.93 %
-Other                                    126 hrs 54 mins ██████░░░░░░░░░░░░░░░░░░░   24.47 %
+Other                                    126 hrs 56 mins ██████░░░░░░░░░░░░░░░░░░░   24.47 %
 ```
 
 <!--END_SECTION:waka-->
