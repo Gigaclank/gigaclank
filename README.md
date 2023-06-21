@@ -9,9 +9,9 @@ Hi, I'm Aaron Lynn, a passionate all round software engineer from Northern Irela
 <!--START_SECTION:waka-->
 
 ```txt
-Other        359 hrs 16 mins ████████████████████████▓   98.32 %
+Other        360 hrs 11 mins ████████████████████████▓   98.37 %
 Java         4 hrs 40 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Bash         47 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Bash         39 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 YAML         21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Properties   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
