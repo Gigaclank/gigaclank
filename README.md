@@ -9,9 +9,9 @@ Hi, I'm Aaron Lynn, a passionate all round software engineer from Northern Irela
 <!--START_SECTION:waka-->
 
 ```txt
-Other        280 hrs 56 mins ████████████████████████░   96.13 %
-CSV          4 hrs 56 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Java         3 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Other        278 hrs 38 mins ████████████████████████░   96.08 %
+CSV          4 hrs 56 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Java         3 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 Bash         1 hr 41 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 Python       1 hr 4 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
