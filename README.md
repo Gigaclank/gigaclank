@@ -9,11 +9,11 @@ Hi, I'm Aaron Lynn, a passionate all round software engineer from Northern Irela
 <!--START_SECTION:waka-->
 
 ```txt
-Bash             6 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
-Other            6 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
-YAML             5 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
-Batchfile        4 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-PHP              2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Bash             6 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.97 %
+Other            6 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
+YAML             5 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+PHP              2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+BlitzBasic       2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
 ```
 
 <!--END_SECTION:waka-->
