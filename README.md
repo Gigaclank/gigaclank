@@ -9,11 +9,11 @@ Hi, I'm Aaron Lynn, a passionate all round software engineer from Northern Irela
 <!--START_SECTION:waka-->
 
 ```txt
-CMake            15 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.13 %
-XML              8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-ObjectiveC       6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-BlitzBasic       5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-C                4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+CMake            15 mins         ███████░░░░░░░░░░░░░░░░░░   27.77 %
+XML              8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+ObjectiveC       6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+BlitzBasic       5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+C                4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
 ```
 
 <!--END_SECTION:waka-->
